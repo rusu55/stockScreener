@@ -13,6 +13,13 @@ yfinance = "*"
 requests = "*"
 openpyxl = "*"
 requests-html = "*"
+html5lib = "*"
+jinja2 = "*"
+schedule = "*"
+google-api-python-client = "*"
+google-auth-httplib2 = "*"
+google-auth-oauthlib = "*"
+python-dotenv = "*"
 
 [requires]
 python_version = "3.8"
